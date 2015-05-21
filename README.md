@@ -1,7 +1,7 @@
 # scala-sbt
 Scala programs to run on Spark 
 
-# prerequisite
+## prerequisite
 sbt  2.10.4
 spark 1.1.1 or higher
 scala 2.10.4
